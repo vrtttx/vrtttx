@@ -7,7 +7,7 @@ Welcome to Vortex, where innovation meets collaboration in the world of web appl
 At Vortex, we're more than just developers; we're dreamers and creators who believe in the potential of open-source collaboration. Founded with a passion for innovation, we specialize in designing and developing web applications that are intuitive, robust, and scalable.
 
 * We're based in São Paulo, Brazil
-* We're currently working on [DevJobs](https://github.com/vrtttx/devjobs)
+* We're currently working on [Divera](https://github.com/vrtttx/divera)
 * Visit our portfolio at [https://vrtttx.com/](http://vrtttx.com/)
 * Contact us at [vrtttx@gmail.com](mailto:vrtttx@gmail.com)
 
